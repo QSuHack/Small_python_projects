@@ -13,3 +13,5 @@
 `extract_pdf_from_signed_xml.py` ->It's short script which extract pdf from xml file signed by Polish Trusted Profile `Profil Zaufany`. Input is filename with extension
 
 `Screenshot_renamer.py` -> Script which renames `png` file begins from Screenshot with "Screenshot_<file_creation_date>.png". It works only in current working dictionary as expected.
+
+`friends_comparer.py` -> Script which checks differences between two json friends files from Facebook. 
