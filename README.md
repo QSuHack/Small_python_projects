@@ -15,3 +15,5 @@
 `Screenshot_renamer.py` -> Script which renames `png` file begins from Screenshot with "Screenshot_<file_creation_date>.png". It works only in current working dictionary as expected.
 
 `friends_comparer.py` -> Script which checks differences between two json friends files from Facebook. 
+
+`router.py` -> Script which automatically restart router.
