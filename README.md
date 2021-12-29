@@ -16,4 +16,4 @@
 
 `friends_comparer.py` -> Script which checks differences between two json friends files from Facebook. 
 
-`router.py` -> Script which automatically restart router.
+`restart.py` -> Script which automatically restart router.
